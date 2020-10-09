@@ -1,0 +1,2 @@
+Was able to configure route to router.
+The ip route for the router  must be set up so that we can send the ping and get the reply other than the inteface set.
